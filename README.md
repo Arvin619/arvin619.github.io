@@ -1,3 +1,3 @@
-This is an example site used for solely for testing purposes. **It is not meant to be used as a template for your site**. 
+# My Personal Blog
 
-To create a new site, please use the starter template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/)
+歡迎參觀 https://arvin619.github.io
